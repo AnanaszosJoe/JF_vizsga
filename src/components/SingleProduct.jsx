@@ -32,7 +32,7 @@ export const SingleProduct = ({id, title, category, description, price, thumbnai
                 Price: {price}€
                 </CardText>
 
-                <Button style={{backgroundColor:'blue', width:'100%'}}>
+                <Button style={{backgroundColor:'lightblue', width:'100%'}}>
                 Add to cart
                 </Button>
             </CardBody>
